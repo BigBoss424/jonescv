@@ -90,7 +90,7 @@ experiences:
       company: Cogs Web Development and Hosting, South El Monte
       details: |
         I run a web hosting and development company. Providing services to build,
-        maintain and host websites and web apps for small and medium sized businesses.
+x       maintain and host websites and web apps for small and medium sized businesses.
         Helping these businesses with their online presence and marketing to ensure that
         traffic and customers are driven to their business.
 
@@ -123,9 +123,9 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are a few of my side projects that I have been working on over time. They range from
+      personal projects to business. As time goes on, I will be constantly updating this roster
+      of projects to better showcase my skill and talents.
 
     assignments:
       - title: Equity Publishing
