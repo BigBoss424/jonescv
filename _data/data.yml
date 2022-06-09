@@ -1,0 +1,195 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Aaron Jones
+    tagline: Web Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ajones061392@yahoo.com
+    phone: 626 501 5023
+    website:  jportfolio.tk/
+    linkedin: linkedin.com/in/aaron-jones-4739bb85
+    github: bigboss424
+    gitlab:
+    bitbucket:
+    twitter: '@heeroyuy424'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Spanish
+        level: Intermediate
+
+      - idiom: Java
+        level: Professional
+
+    interests:
+      - item: Programming
+        link:
+
+      - item: Music
+        link:
+
+      - item: Gardening
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Learning to create and develop websites by implementing and utilizing various
+      solutions until I come across one that works for my purpose. I am a college student,
+      business owner, entrepreneur, and programmer. I can also do some very basic graphic
+      design and am proficient in various office suites. I am currently working for myself
+      as owner of Cogs Web Development and Hosting. I do various projects to keep my mind
+      sharp and relevant.
+
+      I am constantly looking for new ways to innovate and create better software, web applications,
+      and websites. I utilize various techniques to help me provide my clients and future clients
+      with a experience that they can be proud of. I also can handle basic internet marketing needs,
+      and SEO Optimization.
+
+education:
+    - degree: BSc in Computer Science
+      university: Western Governors University
+      time: 2019 - Present
+      details: |
+        I am completing my Computer Science degree at this University. I am currently
+        studying a wide variety of new techniques in software development, while brushing
+        up on my mathematics to better analyze my programs structure and flow.
+
+          - Learning how to utilize the Big O Notation to create more efficient programs.
+          - Learning how IT infrastructure concides with the development process.
+
+    - degree: BSc in Computer Science
+      university: California State University, Los Angeles
+      time: 2017 - 2019
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, se
+
+          - Bullet point
+          - Bullet point
+
+experiences:
+    - role: Owner
+      time: 2017 - Present
+      company: Cogs Web Development and Hosting, South El Monte
+      details: |
+        I run a web hosting and development company. Providing services to build,
+        maintain and host websites and web apps for small and medium sized businesses.
+        Helping these businesses with their online presence and marketing to ensure that
+        traffic and customers are driven to their business.
+
+          - Provide Web Development and Hosting Services to Customers.
+          - Work with clients to establish web marketing and online presence.
+
+    - role: Web Developer
+      time: 2015 - 2016
+      company: Equity Publishing, Remote
+      details: |
+        Rebuilt the companies website using the Yui Framework and Bootstrap to
+        deliver a stellar website with no need to use a CMS such as WordPress or
+        Joomla to develop the website.
+
+          - Removed the need for a CMS from the client's site.
+          - Built a website that met the expectations of the client.
+
+    - role: Junior System Administrator
+      time: 2010 - 2011
+      company: Walla Walla Univesity Computer Science Department, Walla Walla
+      details: |
+        Managed and Maintained the Computer Science Department's Computer Lab. Learned
+        how to maintain and manage various Linux servers and how to utilize them for the
+        Computer Science Department's Computer Lab. Worked with the Computer Science Department
+        Chair with numerous projects and tasks.
+
+          - Learned to manage Linux Servers
+          - Learned to manage an entire Computer Lab
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Equity Publishing
+        link: "https://bigboss424.github.io/eqpublishing/"
+        tagline: "My first client work for a business client, Equity Publishing. Though the business
+        may no longer exist, I still host the site."
+
+      - title: North Idaho Star
+        link: "https://bigboss424.github.io/northstaridaho/"
+        tagline: "A website design for Equity Publishing to have their magazine, North Idaho Star, digitized using Turn.js to mimic the page turn."
+
+      - title: Amazing Truth Bible School
+        link: "https://amazingtruthbibleschool.com/"
+        tagline: "A website built for the purpose of spreading the Word of God, through Bible Seminarsand Testimonies, utilizing WordPress."
+
+      - title: My Resume
+        link: "https://bigboss424.github.io/jones-resume/"
+        tagline: "A simple website I built to display my resume online, as well as the means to download a copy of my resume on the site."
+
+        # - title:
+        # link: "#"
+        # tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+        #publications:
+        #    title: Publications
+        #    intro: |
+        #      You can list your publications in this section. Lorem ipsum dolor sit
+        #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+        #      bibendum fringilla a eu lectus.
+
+        #    papers:
+        #      - title: The Art of Computer Programming
+        #        authors: Donald E. Knuth
+        #        conference: Addison-Wesley, 1968
+
+        #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        #        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        #        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+        #      - title: A syntax directed compiler for Algol 60
+        #        authors: Edgar T. Irons
+        #        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
